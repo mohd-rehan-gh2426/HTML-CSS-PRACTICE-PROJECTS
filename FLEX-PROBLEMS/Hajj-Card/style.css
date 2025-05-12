@@ -13,6 +13,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .card_container{
@@ -20,6 +21,8 @@ body{
     height: 350px;
     width: 800px;
     background-color: darkorange;
+    border-radius: 20px;
+    overflow: hidden;
     
 }
 
